@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w+HO9DbIvjIJp6tv0IT4e/QDvcIV+Z/18lHlPppKDF+y5e7pDp054dc9TrgXiijmpqzl3K2YNE7jP6N3aC4mLA==",
+  "dgSpecHash": "SVKgDfUKbgJjgYjRLOSmJSoLQ/uDjCrIjl1dfIb8bHJFPijB6e31sEfbK884+B3Wj21UZbOowBmRKDUBUQ4Rww==",
   "success": true,
-  "projectFilePath": "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
+  "projectFilePath": "C:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj": {}
+    "C:\\Users\\HP\\bazar_prg\\bazar_prg.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj": {
+    "C:\\Users\\HP\\bazar_prg\\bazar_prg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
         "projectName": "bazar_prg",
-        "projectPath": "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
+        "projectPath": "C:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\bazar_prg\\obj\\",
+        "outputPath": "C:\\Users\\HP\\bazar_prg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
