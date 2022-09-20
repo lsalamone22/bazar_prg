@@ -8,77 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = bazar_prg
 build_property.RootNamespace = bazar_prg
-build_property.ProjectDir = D:\PROGRAMACIÓN I - CLASES Y TAREA\PRG BAZAR\bazar_prg\
+build_property.ProjectDir = d:\PROGRAMACIÓN I - CLASES Y TAREA\PRG BAZAR\bazar_prg\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PROGRAMACIÓN I - CLASES Y TAREA\PRG BAZAR\bazar_prg
+build_property.MSBuildProjectDirectory = d:\PROGRAMACIÓN I - CLASES Y TAREA\PRG BAZAR\bazar_prg
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/Account/Login.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/Account/Register.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/_ViewImports.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/_ViewStart.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Catalogo/Details.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Catalogo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Catalogo/Index.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Catalogo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Cliente/Index.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Home/Index.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Home/Privacy.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/Error.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/_LoginPartial.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/_ViewImports.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/_ViewStart.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/_Layout.cshtml]
+[d:/PROGRAMACIÓN I - CLASES Y TAREA/PRG BAZAR/bazar_prg/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pj53xsqwxo
