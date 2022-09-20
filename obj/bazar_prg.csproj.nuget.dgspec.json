@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj": {}
+    "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj": {
+    "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
+        "projectUniqueName": "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj",
         "projectName": "bazar_prg",
-        "projectPath": "c:\\Users\\HP\\bazar_prg\\bazar_prg.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\bazar_prg\\obj\\",
+        "projectPath": "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj",
+        "packagesPath": "C:\\Users\\MARGARETH\\.nuget\\packages\\",
+        "outputPath": "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MARGARETH\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

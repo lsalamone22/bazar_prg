@@ -13,4 +13,6 @@ public class ApplicationDbContext : IdentityDbContext
 
      public DbSet<Cliente> DataCliente { get; set; }
      public DbSet<Productos> DataProducto { get; set; }
+    public DbSet<Proforma> DataProforma { get; set; }
+
 }
