@@ -1,0 +1,33 @@
+@model bazar_prg.Models.Cliente
+
+@{
+    ViewData["Title"] = "Cliente";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="text-center">
+    <h1 class="display-4">Ingrese sus datos</h1>
+
+    <form asp-controller="Cliente" asp-action="Create">
+
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control form-control-sm" type="text" placeholder="Ingresu sus nombres" aria-label=".form-control-sm" />
+
+        <label asp-for="Surname" class="control-label"></label>
+        <input asp-for="Surname" class="form-control form-control-sm" type="text" placeholder="Ingrese sus apellidos" aria-label=".form-control-sm" />
+
+
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" class="form-control form-control-sm" type="text" placeholder="Ingrese su email" aria-label=".form-control-sm" />
+
+   
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Enviar</button> 
+        </div>              
+    </form>
+    <h1>@ViewData["Message"]</h1>
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

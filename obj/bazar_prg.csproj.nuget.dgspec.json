@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\2022 - 2\\Programacion 1\\LABORATORIO\\bazar_prg\\bazar_prg.csproj": {}
+    "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\2022 - 2\\Programacion 1\\LABORATORIO\\bazar_prg\\bazar_prg.csproj": {
+    "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\2022 - 2\\Programacion 1\\LABORATORIO\\bazar_prg\\bazar_prg.csproj",
+        "projectUniqueName": "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj",
         "projectName": "bazar_prg",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\2022 - 2\\Programacion 1\\LABORATORIO\\bazar_prg\\bazar_prg.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\2022 - 2\\Programacion 1\\LABORATORIO\\bazar_prg\\obj\\",
+        "projectPath": "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\bazar_prg.csproj",
+        "packagesPath": "C:\\Users\\MARGARETH\\.nuget\\packages\\",
+        "outputPath": "D:\\PROGRAMACIÓN I - CLASES Y TAREA\\PRG BAZAR\\bazar_prg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MARGARETH\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
